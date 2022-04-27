@@ -14,6 +14,8 @@ using namespace std;
 
 #define SECTOR_SIZE 512
 
+
+
 // tablica FAT
 #define EOC 0xFFFF
 #define NOT_USE 0x0000
